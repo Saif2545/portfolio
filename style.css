@@ -1,0 +1,60 @@
+.section1{
+   background-color: rgb(177, 243, 112); height: 7rem;
+   
+}
+h1{
+    font-size: 3rem;float: right;color: blue;
+}
+.ul1{ display: inline-block;float: left;margin-right: 1rem;font-size: 3rem;padding-top: 2.7rem;
+
+}
+.section2{
+    height: 15rem;background-color: rgb(184, 243, 240);
+}
+h2{
+    text-align: center;font-size: 5rem;padding-top: 4rem;margin-top: 0;
+}
+.section3{
+    height: 34rem;
+}
+.div1{
+    height: 400px;width: 400px;display: inline-block;margin-left: 30px;border-radius: 100%;margin-top: 2cm;cursor: pointer;
+}
+.div2{
+    height: 400px;width: 400px;display: inline-block;margin-left: 30px;border-radius: 100%;cursor: pointer;
+}
+
+.div3{
+    height: 400px;width: 400px;display: inline-block;margin-left: 30px;border-radius: 100%;cursor: pointer;
+}
+.img{
+    height:400px ;width: 400px;border-radius: 100%;opacity:0.5 ;
+}
+.section4{
+    height: 10rem;background-color: rgb(206, 182, 205);
+}
+p{
+    font-size: 3rem;text-align: center;color: midnightblue;transform: translateY(100%);
+}
+.p1{
+    font-size: 2rem; 
+}
+.div4{
+ height: 10rem; position: relative;
+  
+}
+.img2{
+    height: 500px;width: 500px;opacity: .4;
+}
+.text{
+    position: absolute; top: 80%;left: 20%;transform: translate(-50%,-50%)
+}
+.test{
+    position: absolute;top: 100%; left: 10%;font-size: 40px;text-transform: uppercase;color: black;font-weight: bolder;
+}
+.test1{
+    position: absolute;top: 100%; left: 42%;font-size: 40px;text-transform: uppercase;color: black;font-weight: bolder;
+}
+.test2{
+    position: absolute;top: 100%; left: 75%;font-size: 40px;text-transform: uppercase;color: black;font-weight: bolder;
+}
